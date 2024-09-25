@@ -1,0 +1,13 @@
+console.log("Hi");
+// console.log(a);
+console.log(b);
+let a = 10;
+console.log(a);
+var b = 100;
+// let a = 12;
+// var a = 15;
+var b = 20;
+const c = 1000;
+// c = 30;
+a = 25;
+console.log(a);
